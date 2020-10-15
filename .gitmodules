@@ -1,0 +1,3 @@
+[submodule "lab03"]
+	path = lab03
+	url = git@github.com:AlexValder/WebLab3.git
