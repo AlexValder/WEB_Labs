@@ -4,3 +4,6 @@
 [submodule "lab04"]
     path = lab04
     url = git@github.com:AlexValder/WebLab4.git
+[submodule "indiv"]
+    path = indiv
+    url = git@github.com:AlexValder/WebLab4.git
